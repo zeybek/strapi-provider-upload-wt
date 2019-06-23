@@ -1,0 +1,39 @@
+{
+  "name": "strapi-provider-upload-wt",
+  "version": "3.0.0-alpha.25.2",
+  "description": "WeTransfer provider for Strapi upload",
+  "strapi": {
+    "isProvider": true
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "./lib",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeybek/strapi-provider-upload-wt.git"
+  },
+  "keywords": [
+    "wetransfer",
+    "provider",
+    "upload",
+    "strapi"
+  ],
+  "author": {
+    "email": "me@zeybek.dev",
+    "name": "Ahmet Zeybek",
+    "url": "https://github.com/zeybek"
+  },
+  "bugs": {
+    "url": "https://github.com/zeybek/strapi-provider-upload-wt/issues"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/zeybek/strapi-provider-upload-wt#readme",
+  "devDependencies": {
+    "eslint": "^5.3.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.1",
+    "eslint-plugin-react": "^7.11.0"
+  }
+}
