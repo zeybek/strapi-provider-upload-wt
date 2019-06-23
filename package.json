@@ -1,6 +1,6 @@
 {
   "name": "strapi-provider-upload-wt",
-  "version": "3.0.0-alpha.25.2",
+  "version": "3.0.0-alpha.25.3",
   "description": "WeTransfer provider for Strapi upload",
   "strapi": {
     "isProvider": true

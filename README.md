@@ -5,7 +5,7 @@ WeTransfer provider for strapi upload
 ## Instalation
 
 ```
-npm i strapi-provider-upload-wetransfer
+npm i strapi-provider-upload-wt
 ```
 
 ## API Key
